@@ -1,0 +1,7 @@
+{
+    "name": "bpkg-template-one-file",
+    "version": "0.0.1",
+    "description": "A template project for the bpkg package manager, facilitating easy setup and management of bpkg-based projects.",
+    "scripts": [ "example_script.sh" ],
+    "install": "make install"
+}
