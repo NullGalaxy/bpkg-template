@@ -1,6 +1,9 @@
 # bpkg-template
 
-A template project for the [bpkg package manager](https://github.com/bpkg/bpkg), facilitating easy setup and management of bpkg-based projects.
+This project serves as a template for the [bpkg package manager](https://github.com/bpkg/bpkg), facilitating easy setup and management of bpkg-based projects.
+
+For more information on using this template and creating your simplest BPKG package, see the following guide:
+- [Guide to creating a BPKG package](https://gist.github.com/linxuil/143ef59bad3f4f62b0645b76720c6e88)
 
 ## 1. Install
 
